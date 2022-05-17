@@ -1,0 +1,21 @@
+.body{
+    background-color: aqua;
+}
+.contactme{
+    border: 1px solid white;
+    width: 40%;
+    margin: auto;
+    margin-top: 5px;
+    font-weight: bold;
+    border-right: 1px solid grey;
+    border-left: 1px solid grey;
+    padding-bottom: 4px;
+    text-align: center;
+    color: rgb(86, 136, 136);
+    margin-bottom: 4px;
+    border-bottom: 2px solid grey;
+    background-color: rgb(247, 245, 245);
+}
+.contactme :hover{
+    cursor: pointer;
+}
